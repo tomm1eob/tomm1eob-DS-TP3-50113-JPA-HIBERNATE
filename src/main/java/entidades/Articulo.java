@@ -23,7 +23,7 @@ public class Articulo implements Serializable {
     @Column(name = "Cantidad")
     private int cantidad;
     @Column(name = "Denominacion")
-    private String denominación;
+    private String denominacion;
     @Column(name = "Precio")
     private int precio;
 
